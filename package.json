@@ -12,7 +12,7 @@
     "body-parser": "^1.15.2",
     "connect-gzip": "^0.1.6",
     "cookie-parser": "^1.4.3",
-    "debug": "~2.2.0",
+    "debug": "~4.2.0",
     "express": "^4.14.0",
     "http-error": "0.0.6",
     "jade": "~1.11.0",
